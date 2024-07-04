@@ -170,7 +170,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/BigMartSalesPrediction.git
+    git clone https://github.com/Osama-Abo-Bakr/BigMartSalesPrediction.git
     ```
 
 2. Navigate to the project directory:
